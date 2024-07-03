@@ -1,7 +1,7 @@
 # AbbaTech Blogs
 
 # About This Project
-
+(https://github.com/asankoh/AbbaTech_New/blob/main/public/img/AbbaTech_Thumbnail.png?raw=true)
 Abbatech is a mini blog application that allows users to 
 
 # CodeIgniter 4 Application Starter
