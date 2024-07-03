@@ -1,3 +1,9 @@
+# AbbaTech Blogs
+
+# About This Project
+
+Abbatech is a mini blog application that allows users to 
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
